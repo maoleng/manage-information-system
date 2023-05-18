@@ -8,7 +8,7 @@ This reposiory is built base on
 - University: [Ton Duc Thang University](https://tdtu.edu.vn/)
 
 ## Document
-[SE Docs](https://drive.google.com/drive/folders/19HArz-DMoZO7WDivmh7_RXg3HRKg4ehs?usp=sharing)
+[MIS Docs](https://drive.google.com/drive/folders/19HArz-DMoZO7WDivmh7_RXg3HRKg4ehs?usp=sharing)
 
 ## Final project includes
   - Report
