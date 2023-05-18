@@ -15,4 +15,9 @@ This reposiory is built base on
   - Meeting Report
   - Source [maoleng/coffee-management-system](https://github.com/maoleng/coffee-management-system)
   - Powerpoint [Canva](https://www.canva.com/design/DAFjD4U4ntA/g-aL4gg2ScIjr5JTiUMlHA/view?utm_content=DAFjD4U4ntA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#10)
-  - Demo [Youtube](https://youtu.be/0bYT19V64Ig)
+  - Demo
+
+## Demo
+[View on youtube for higher quality](https://youtu.be/0bYT19V64Ig)
+
+https://github.com/maoleng/enterprise-systems-development/assets/91431461/c32b96ad-3320-4f9d-9acf-1bf9096ba634
